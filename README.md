@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shulammite
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning Django and Python
 - 💞️ I’m looking to collaborate on projects and hackertons
 
 <!---
